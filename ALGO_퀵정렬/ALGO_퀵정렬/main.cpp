@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 /*
 분할 정복(Divide and Conquer) 기반
 기준요소(Pivot)설정 방법-> 랜덤 값이 가장 좋지만, 값 선택 과정 중 성능 저하 발생
@@ -15,7 +15,7 @@
 - 최악의 경우 = 데이터가 정렬된 상태 = 재귀 호출의 깊이(n-1) * 각 재귀 호출 단계에서의 비교 횟수((n-1)+(n-2)+(n-3)+...+1) = n(n-1)/2
 - 평균 = 1.39nlog2n = O(nlog2n)
 */
-
+/*
 void Swap(int* A, int* B) //주소값을 포인터로 받아옴
 {
 	int tmp = *A; // 주소값의 포인터를 저장 (=값)
@@ -67,4 +67,4 @@ int main(void)
 		printf("%d ", Dataset[i]);
 	printf("\n");
 	return 0;
-}
+}*/
