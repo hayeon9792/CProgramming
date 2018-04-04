@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\swtest\c\비트마스킹\bj_11723_집합\bj_11723_집합\main.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\swtest\c\비트마스킹\bj_11723_집합\bj_11723_집합\main.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\swtest\c\비트마스킹\bj_11723_집합\bj_11723_집합\main.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  BJ_11723_집합.vcxproj -> C:\SWTEST\C\비트마스킹\BJ_11723_집합\Debug\BJ_11723_집합.exe
