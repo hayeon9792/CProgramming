@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJ_로봇청소기", "BJ_로봇청소기\BJ_로봇청소기.vcxproj", "{06A39FE0-0578-41B9-97A1-52ECDB64D418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Debug|x64.ActiveCfg = Debug|x64
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Debug|x64.Build.0 = Debug|x64
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Debug|x86.ActiveCfg = Debug|Win32
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Debug|x86.Build.0 = Debug|Win32
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Release|x64.ActiveCfg = Release|x64
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Release|x64.Build.0 = Release|x64
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Release|x86.ActiveCfg = Release|Win32
+		{06A39FE0-0578-41B9-97A1-52ECDB64D418}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BBA141-6AD4-48A0-9A97-9F791D0F8D10}
+	EndGlobalSection
+EndGlobal
