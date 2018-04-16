@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJ_DP기초_11726_2xn스타일링", "BJ_DP기초_11726_2xn스타일링\BJ_DP기초_11726_2xn스타일링.vcxproj", "{09EF05F5-7489-4C50-9ACC-A2557CC9C714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Debug|x64.ActiveCfg = Debug|x64
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Debug|x64.Build.0 = Debug|x64
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Debug|x86.ActiveCfg = Debug|Win32
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Debug|x86.Build.0 = Debug|Win32
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Release|x64.ActiveCfg = Release|x64
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Release|x64.Build.0 = Release|x64
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Release|x86.ActiveCfg = Release|Win32
+		{09EF05F5-7489-4C50-9ACC-A2557CC9C714}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A00E68-6355-4098-AC7C-3BCF5D161687}
+	EndGlobalSection
+EndGlobal
